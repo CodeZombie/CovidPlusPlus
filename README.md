@@ -18,3 +18,11 @@ A Covid-19 Companion App
 View the preview [Here](https://www.figma.com/file/m4jALFjk9Akl6YuXfoZ5sF/Untitled?node-id=0%3A1)
 
 View a video overview of the application [Here](https://www.youtube.com/watch?v=BTuNowctNdQ)
+
+
+## Desirable Functions
+ * Contact tracing
+ * The ability to detect when you need to wash your hands (coming home, etc)
+ * The ability to share symptom information automatically with a public health organization
+ * A daily/weekly reminder to check your symptoms
+ * The ability to detect the presense of other people and notify you that you are surrounded by too many people, putting yourself at risk.
