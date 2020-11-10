@@ -10,8 +10,8 @@ A Covid-19 Companion App
  * Modern, easy to use interface
 
 ## Screenshots
-![Screenshots of Covid++](screenshots_a.png)
-![Screenshots of Covid++](screenshots_b.png)
+![Screenshots of Covid++](https://raw.githubusercontent.com/CodeZombie/CovidPlusPlus/main/screenshot_a.png)
+![Screenshots of Covid++](https://raw.githubusercontent.com/CodeZombie/CovidPlusPlus/main/screenshot_b.png)
 
 ## Preview
 
